@@ -1,0 +1,8 @@
+//add one extra element to the array
+
+var arr=[1,2,3,4,5]
+arr.push(6)
+console.log(arr);
+
+//ans: 
+//[ 1, 2, 3, 4, 5, 6 ]
